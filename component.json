@@ -9,12 +9,14 @@
   },
   "main": ["lungo.js"],
   "keywords": [ "mobile" ],
-  "dependencies": {"cayasso/quojs": "*"},
+  "dependencies": {
+    "cayasso/quojs": "*"
+  },
   "license": [ 
     {"type": "GPLv3"}, 
     {"type": "Commercial"}
   ],
   "repo": "https://raw.github.com/cayasso/lungo",
   "scripts": ["lungo.js"],
-  "styles": ["lungo.css", "lungo.theme.css", "lungo.icon.css"]
+  "styles": ["lungo.css", "theme.lungo.css", "lungo.icon.css"]
 }
