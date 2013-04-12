@@ -18,5 +18,5 @@
   ],
   "repo": "https://raw.github.com/cayasso/lungo",
   "scripts": ["lungo.js"],
-  "styles": ["lungo.css", "theme.lungo.css", "lungo.icon.css"]
+  "styles": ["lungo.css", "lungo.icon.css", "lungo.theme.css"]
 }
