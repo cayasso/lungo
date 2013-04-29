@@ -1,1 +1,0 @@
-Lungo as web component 
