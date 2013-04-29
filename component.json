@@ -7,28 +7,15 @@
     "name": "Tapquo S.L.",
     "site": "http://tapquo.com"
   },
-  "keywords": [
-    "mobile"
-  ],
+  "keywords": [ "mobile" ],
   "dependencies": {
     "cayasso/quojs": "*"
   },
-  "license": [
-    {
-      "type": "GPLv3"
-    },
-    {
-      "type": "Commercial"
-    }
+  "license": [ 
+    {"type": "GPLv3"}, 
+    {"type": "Commercial"}
   ],
   "repo": "https://raw.github.com/cayasso/lungo",
-  "scripts": [
-    "index.js",
-    "lungo.js"
-  ],
-  "styles": [
-    "lungo.css",
-    "lungo.icon.css",
-    "theme.lungo.css"
-  ]
+  "scripts": ["index.js", "lungo.js"],
+  "styles": ["lungo.css", "lungo.icon.css", "lungo.theme.css"]
 }
